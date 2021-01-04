@@ -1,2 +1,10 @@
-je suis le fichier texte
+je suis le fichier text
 nouvelle ligne
+
+non non pas de conflit
+
+conflit
+
+conflit2
+
+conflit3
