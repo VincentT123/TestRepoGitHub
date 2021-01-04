@@ -1,2 +1,4 @@
 je suis le fichier texte
 nouvelle ligne
+conflit
+
